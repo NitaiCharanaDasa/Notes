@@ -1,0 +1,4 @@
+WARNING:root:Please confirm the password to do any other actions ! NECESSARY STEP !
+INFO:root:The balance is 10000 
+CRITICAL:root:The amount of RS 4500 is withdrawn
+INFO:root:The balance is 5500 

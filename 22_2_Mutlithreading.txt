@@ -1,0 +1,172 @@
+INFO:root:This is my info
+ERROR:root:This is my errror
+CRITICAL:root:This is my critical
+INFO:root:This is my info
+ERROR:root:This is my errror
+CRITICAL:root:This is my critical
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 1
+INFO:root:the integer 1 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 2
+INFO:root:the integer 2 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 3
+INFO:root:the integer 3 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 4
+INFO:root:the integer 4 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 5
+INFO:root:the integer 5 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 6
+INFO:root:the integer 6 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 7
+INFO:root:the integer 7 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 8
+INFO:root:the integer 8 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 9
+INFO:root:the integer 9 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string agam
+INFO:root:the string agam is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string nitai
+INFO:root:the string nitai is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string gaura
+INFO:root:the string gaura is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string krsna
+INFO:root:the string krsna is added to the list l2
+INFO:root:The resultant list of integers is [1, 2, 3, 4, 5, 6, 7, 8, 9] and the resultant list for string is ['agam', 'nitai', 'gaura', 'krsna']
+INFO:root:This is my info
+ERROR:root:This is my errror
+CRITICAL:root:This is my critical
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 1
+INFO:root:the integer 1 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 2
+INFO:root:the integer 2 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 3
+INFO:root:the integer 3 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 4
+INFO:root:the integer 4 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 5
+INFO:root:the integer 5 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 6
+INFO:root:the integer 6 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 7
+INFO:root:the integer 7 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 8
+INFO:root:the integer 8 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 9
+INFO:root:the integer 9 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string agam
+INFO:root:the string agam is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string nitai
+INFO:root:the string nitai is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string gaura
+INFO:root:the string gaura is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string krsna
+INFO:root:the string krsna is added to the list l2
+INFO:root:The resultant list of integers is [1, 2, 3, 4, 5, 6, 7, 8, 9] and the resultant list for string is ['agam', 'nitai', 'gaura', 'krsna']
+INFO:root:This is my info
+ERROR:root:This is my errror
+CRITICAL:root:This is my critical
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 1
+INFO:root:the integer 1 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 2
+INFO:root:the integer 2 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 3
+INFO:root:the integer 3 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 4
+INFO:root:the integer 4 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 5
+INFO:root:the integer 5 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 6
+INFO:root:the integer 6 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 7
+INFO:root:the integer 7 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 8
+INFO:root:the integer 8 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 9
+INFO:root:the integer 9 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string agam
+INFO:root:the string agam is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string nitai
+INFO:root:the string nitai is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string gaura
+INFO:root:the string gaura is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string krsna
+INFO:root:the string krsna is added to the list l2
+INFO:root:The resultant list of integers is [1, 2, 3, 4, 5, 6, 7, 8, 9] and the resultant list for string is ['agam', 'nitai', 'gaura', 'krsna']
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 1
+INFO:root:the integer 1 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 2
+INFO:root:the integer 2 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 3
+INFO:root:the integer 3 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 4
+INFO:root:the integer 4 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 5
+INFO:root:the integer 5 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 6
+INFO:root:the integer 6 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 7
+INFO:root:the integer 7 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 8
+INFO:root:the integer 8 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the int checking loop for integer 9
+INFO:root:the integer 9 is added to the list l1
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string agam
+INFO:root:the string agam is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string nitai
+INFO:root:the string nitai is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string gaura
+INFO:root:the string gaura is added to the list l2
+INFO:root:inside the loop
+INFO:root:inside the str checking loop for string krsna
+INFO:root:the string krsna is added to the list l2
+INFO:root:The resultant list of integers is [1, 2, 3, 4, 5, 6, 7, 8, 9] and the resultant list for string is ['agam', 'nitai', 'gaura', 'krsna']
